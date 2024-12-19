@@ -1,2 +1,3 @@
 # typewriter-example
-Created with CodeSandbox
+
+https://codesandbox.io/p/sandbox/typewriter-example-nn65ff
